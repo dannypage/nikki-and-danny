@@ -36,6 +36,7 @@ hr {
     border-color: #999999;
 }
 
+.top-header,
 .brand,
 .address-bar {
     display: none;
@@ -113,6 +114,13 @@ footer p {
 }
 
 @media screen and (min-width:768px) {
+    .top-header {
+        display: inherit;
+        margin: 10%;
+        background: rgba(54, 54, 54, 0.5);
+        border: 1px solid silver;
+    }
+
     .brand {
         display: inherit;
         margin: 0;
