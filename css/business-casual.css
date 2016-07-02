@@ -82,7 +82,7 @@ hr {
     margin-bottom: 20px;
     padding: 30px 15px;
     background: #fff;
-    background: rgba(255,255,255,0.9);
+    background: rgba(255,255,255,0.8);
 }
 
 .intro-text {
@@ -110,7 +110,7 @@ footer {
 
 footer p {
     margin: 0;
-    padding: 50px 0;
+    padding: 10px 0;
 }
 
 @media screen and (min-width:768px) {
@@ -122,7 +122,7 @@ footer p {
         margin-bottom: 1%;
         width: 60%;
         padding: 10px;
-        background: rgba(54, 54, 54, 0.5);
+        background: rgba(0,31,63, 0.8);
         border: 1px solid silver;
     }
 
@@ -176,7 +176,7 @@ footer p {
     .navbar-default {
         border: none;
         background: #fff;
-        background: rgba(255,255,255,0.9);
+        background: rgba(255,255,255,0.8);
     }
 
     .nav>li>a {
